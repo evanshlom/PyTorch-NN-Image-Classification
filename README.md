@@ -1,4 +1,4 @@
-# PyTorch-CNN-Image-Classification
+# PyTorch-NN-Image-Classification
 Sequential Neural Network using PyTorch
 
 ## Image Dataset
